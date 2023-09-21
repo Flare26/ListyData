@@ -1,1 +1,1 @@
-['GhosttwnShowdwn', 'Syxis', 'SaintJames']
+['SaintJames', 'GhosttwnShowdwn', 'Syxis']
