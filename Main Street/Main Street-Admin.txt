@@ -1,1 +1,1 @@
-['Boo', 'LOA n8bits', 'SaintJames']
+['Boo', 'n8bits', 'SaintJames']
