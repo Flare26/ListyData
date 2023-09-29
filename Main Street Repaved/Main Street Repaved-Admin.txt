@@ -1,1 +1,1 @@
-['GhosttwnShowdwn', 'SaintJames', 'n8bits']
+['GhosttwnShowdwn', 'SaintJames']
