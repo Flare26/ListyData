@@ -15,6 +15,7 @@ Eldah
 EmberMorgan
 Emotional Support Puppy
 ExoticAshes
+Flippy Boy
 FunnyDeath
 Glizzy Senpai
 GothicTheHalfbodySped
@@ -24,15 +25,14 @@ Hoetel Guard Dog
 Imber LOA
 Insanity
 JaXCentral
+Jackachu23
 JagerMaster
 JoCodemonkey
 KIIILo
 KaleSmoothie
-Kanine
 King_Satan
 Konstanation
 LAPLADY
-Lapis
 LittleMoon
 Lustful Lovie
 Melroze  puppy girl
@@ -78,5 +78,6 @@ noun 獣欲
 pswords20
 seakaii
 starkuma
+xlapis
 Τotoroⳋ
 접시 액체
