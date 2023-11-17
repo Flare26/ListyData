@@ -48,7 +48,6 @@ Obsession
 Oreo
 P
 Pochita
-Potato Chipy
 PyraDrakul
 RedFalll
 Ritual
@@ -64,7 +63,6 @@ TENSION LOA
 The Janitor
 ToughCookies
 TyroneMF
-Weeeby
 YonaCrystal
 Yulie
 ZenTheFox
@@ -73,6 +71,7 @@ Zinny
 Zoux
 ciinnabun
 curo
+kamron_potato
 lila0bird
 noun 獣欲
 pswords20
