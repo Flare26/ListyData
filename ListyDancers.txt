@@ -8,7 +8,7 @@ Boo
 BunnyMaxx
 CakeyChou
 Candid_Tear
-Coca シ
+Coca
 Corn Farmer
 Dank Fish
 Dino
@@ -20,7 +20,6 @@ Flippy Boy
 FunnyDeath
 Glizzy Senpai
 GothicTheHalfbodySped
-Griffin
 Griz
 Hoetel Bendy Straw
 Hoetel Guard Dog
@@ -45,6 +44,7 @@ MΛƬƬY
 NTAssassin
 Nessie
 Nidashi
+Nidashi 
 Noodles
 Novakdesolation
 Obsession
@@ -69,8 +69,12 @@ YonaCrystal
 Ziggy
 Zinny
 Zoux
+_Reflect_
 chainsaws door mat
 ciinnabun loa
+crøssfade
+griffinark
+kofi
 lila0bird
 missykim
 noun 獣欲
